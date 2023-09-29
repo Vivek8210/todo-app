@@ -29,3 +29,5 @@ JWT_SECRET=your-secret-key
 /auth/login: Log in with an existing user.
 /tasks/tasks : to add task.
 tasks/tasks/id: for update and delete task.
+
+![Logo](https://github.com/Vivek8210/todo-app/edit/maste/assets/todo.png)
