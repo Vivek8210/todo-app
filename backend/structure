@@ -1,0 +1,15 @@
+// config/- 1. database.js  - database configuration
+       //   2. server .js - server configuration
+    
+ //controllers/- 1. taskControllers.js - This controller handling ask related logic
+                 // 2. authController.js  - This controller handling user authentication 
+
+ // models/ -        1.task.js - First model for task
+                  //  2.user.js second model for users
+         
+ // routes/   - 1. api.js - API routes and connect to controllers   
+ //             2. authRoutes.js - Authentication releted routes
+ 
+ //index.js  main application file
+
+      
